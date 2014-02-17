@@ -1,0 +1,28 @@
+@CHARSET "US-ASCII";
+.firstRow
+{
+	background-color: aqua;
+	height: 50px;
+	width: 1000px;
+}
+
+.leftCol
+{
+	background-color: blue;
+	height: 500px;
+	width: 200px;
+}
+
+.middleCol
+{
+	background-color: red;
+	height: 500px;
+	width: 600px;
+}
+
+.rightCol
+{
+	background-color: blue;
+	height: 500px;
+	width: 200px;
+}
